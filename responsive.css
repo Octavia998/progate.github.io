@@ -3,6 +3,10 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
+  
+  header-right {
+    display: none;
+  }
 
   .heading h2 {
     font-size: 20px;
