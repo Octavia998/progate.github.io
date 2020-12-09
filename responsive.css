@@ -3,7 +3,7 @@
   .top-wrapper h1 {
     font-size: 32px;
   }
-  
+
   .heading h2 {
     font-size: 20px;
   }
@@ -24,7 +24,8 @@
     display: none;
   }
   
-  span.menu-icon {
+  
+  .menu-icon {
     display: block;
   }
   
@@ -38,6 +39,10 @@
   
   .top-wrapper {
     text-align: center;
+  }
+  
+  .header-right {
+    display: none;
   }
   
   .top-wrapper h1 {
