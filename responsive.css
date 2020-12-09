@@ -12,6 +12,10 @@
     width: 50%;
     margin-bottom: 50px;
   }
+  
+  footer {
+    text-align: center;
+  }
 }
 
 /* Untuk Smartphone */
